@@ -1,7 +1,7 @@
 ## Installation
 
-- `git clone`
-- `cd`
+- `git clone https://github.com/mihir-kanzariya/Node-apollo-postgres.git`
+- `cd Node-apollo-postgres.git`
 - `touch .env`
 - `npm install`
 - fill out _.env file_
